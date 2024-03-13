@@ -18,10 +18,22 @@
    
     Created a GitHub Actions workflow file to automate the deployment process.
    
-    Currently facing issues with logging into DockerHub, which will be revisited after completing the third part of the assignment.
+   ![image](https://github.com/MarinaMihaela/DevOps/assets/103567835/73b71a9f-f38a-4a4d-829b-924560047944)
+
+5. Check to see if the image was pushed to the Docker registry
+   
+   ![image](https://github.com/MarinaMihaela/DevOps/assets/103567835/976a7e1d-42fe-49d3-84c9-b2eae3ac7b42)
+
+6. Pull image locally
+
+![image](https://github.com/MarinaMihaela/DevOps/assets/103567835/35410b2d-80c4-4cd3-87c1-0f0bf723ae5a)
+
+![image](https://github.com/MarinaMihaela/DevOps/assets/103567835/e32fd34a-3d63-4866-b7d9-3256f6e9b1bc)
 
 
-  ![image](https://github.com/MarinaMihaela/DevOps/assets/103567835/11654b8e-9da4-4b57-b9b1-6881339e2b92)
+
+
+ 
 
 Mentions: I moved the Dockerfile to the main directory (alongside the Java program) because it couldn't be read from the 2-simpleapp directory.
 
